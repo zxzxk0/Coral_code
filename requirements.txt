@@ -1,0 +1,11 @@
+numpy==2.4.6
+pandas==3.1.1
+scipy==1.17.1
+opencv-python==5.0.0.93
+Pillow==13.0.0
+matplotlib==3.11.2
+torch==2.11.0+cu128
+torchvision==0.26.0+cu128
+pyiqa
+ImageHash
+openpyxl==3.1.5

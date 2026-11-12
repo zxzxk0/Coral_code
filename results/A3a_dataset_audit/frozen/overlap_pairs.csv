@@ -1,0 +1,12 @@
+saud_scene,uid_scene,saud_path,uid_path,phash_dist,dhash_dist,tier
+group_1/2,G/6,$SAUD_DIR\Benchmark\Raw\group_1\2.png,$UID2021_DIR\G\G-6\SI_G_6.png,0,0,near-identical
+group_3/3,H/1,$SAUD_DIR\Benchmark\Raw\group_3\3.png,$UID2021_DIR\H\H-1\SI_H_1.png,0,0,near-identical
+group_3/7,G/4,$SAUD_DIR\Benchmark\Raw\group_3\7.png,$UID2021_DIR\G\G-4\SI_G_4.png,0,0,near-identical
+group_4/16,BG/1,$SAUD_DIR\Benchmark\Raw\group_4\16.png,$UID2021_DIR\BG\BG-1\SI_BG_1.png,0,0,near-identical
+group_5/5,G/9,$SAUD_DIR\Benchmark\Raw\group_5\5.png,$UID2021_DIR\G\G-9\SI_G_9.png,0,0,near-identical
+group_2/3,G/7,$SAUD_DIR\Benchmark\Raw\group_2\3.png,$UID2021_DIR\G\G-7\SI_G_7.png,0,1,near-identical
+group_5/19,H/4,$SAUD_DIR\Benchmark\Raw\group_5\19.png,$UID2021_DIR\H\H-4\SI_H_4.png,0,1,near-identical
+group_3/13,H/10,$SAUD_DIR\Benchmark\Raw\group_3\13.png,$UID2021_DIR\H\H-10\SI_H_10.png,0,2,near-identical
+group_5/20,T/3,$SAUD_DIR\Benchmark\Raw\group_5\20.png,$UID2021_DIR\T\T-3\SI_T_3.png,0,2,near-identical
+group_5/7,G/10,$SAUD_DIR\Benchmark\Raw\group_5\7.png,$UID2021_DIR\G\G-10\SI_G_10.png,2,0,near-identical
+group_5/6,G/8,$SAUD_DIR\Benchmark\Raw\group_5\6.png,$UID2021_DIR\G\G-8\SI_G_8.png,10,8,borderline

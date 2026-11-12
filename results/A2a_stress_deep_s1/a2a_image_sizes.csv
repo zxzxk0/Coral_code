@@ -1,0 +1,601 @@
+stem,source,H,W
+3d_l443_frame_1281_time_42.74,Raw_Input,1524,2704
+3d_l443_frame_1507_time_50.28,Raw_Input,1524,2704
+3d_l443_frame_1558_time_51.99,Raw_Input,1524,2704
+3d_l443_frame_1566_time_52.25,Raw_Input,1524,2704
+3d_l443_frame_1620_time_54.05,Raw_Input,1524,2704
+3d_l443_frame_1626_time_54.25,Raw_Input,1524,2704
+3d_l443_frame_1662_time_55.46,Raw_Input,1524,2704
+3d_l443_frame_1709_time_57.02,Raw_Input,1524,2704
+3d_l443_frame_1770_time_59.06,Raw_Input,1524,2704
+3d_l443_frame_1874_time_62.53,Raw_Input,1524,2704
+3d_l443_frame_1898_time_63.33,Raw_Input,1524,2704
+3d_l443_frame_1946_time_64.93,Raw_Input,1524,2704
+3d_l443_frame_1975_time_65.90,Raw_Input,1524,2704
+3d_l443_frame_2271_time_75.78,Raw_Input,1524,2704
+3d_l443_frame_2314_time_77.21,Raw_Input,1524,2704
+3d_l443_frame_2408_time_80.35,Raw_Input,1524,2704
+3d_l443_frame_2418_time_80.68,Raw_Input,1524,2704
+3d_l443_frame_2641_time_88.12,Raw_Input,1524,2704
+3d_l443_frame_3183_time_106.21,Raw_Input,1524,2704
+3d_l443_frame_3194_time_106.57,Raw_Input,1524,2704
+3d_l443_frame_3434_time_114.58,Raw_Input,1524,2704
+3d_l443_frame_3442_time_114.85,Raw_Input,1524,2704
+acanthastrea echinata_medium9,Raw_Input,407,500
+acropora abrotanoides_medium101,Raw_Input,374,500
+acropora abrotanoides_medium36,Raw_Input,375,500
+acropora abrotanoides_medium95,Raw_Input,375,500
+acropora cervicornis_medium12,Raw_Input,375,500
+acropora clathrata_medium42,Raw_Input,500,250
+acropora humilis_large2,Raw_Input,886,1024
+acropora humilis_medium13,Raw_Input,375,500
+acropora humilis_medium4,Raw_Input,333,500
+acropora humilis_medium54,Raw_Input,402,500
+acropora humilis_medium72,Raw_Input,438,500
+acropora hyacinthus_medium26,Raw_Input,368,500
+acropora hyacinthus_medium73,Raw_Input,375,500
+acropora hyacinthus_medium80,Raw_Input,375,500
+acropora hyacinthus_small8,Raw_Input,180,240
+acropora palmata_medium17,Raw_Input,375,500
+acropora palmata_medium30,Raw_Input,375,500
+acropora palmata_medium43,Raw_Input,375,500
+acropora palmata_medium65,Raw_Input,333,500
+acropora prolifera_medium30,Raw_Input,375,500
+agaricia fragilis_medium24,Raw_Input,375,500
+agaricia fragilis_original,Raw_Input,1365,2048
+astrea curta_medium43,Raw_Input,500,500
+balanophyllia elegans_medium30,Raw_Input,375,500
+balanophyllia elegans_medium45,Raw_Input,243,500
+bernardpora stutchburyi_medium47,Raw_Input,375,500
+blastomussa omanensis_medium21,Raw_Input,375,500
+carijoa riisei_medium69,Raw_Input,500,375
+carijoa riisei_medium77,Raw_Input,375,500
+cladocora caespitosa_20,Raw_Input,768,1024
+cladocora caespitosa_large4,Raw_Input,768,1024
+cladocora caespitosa_medium29,Raw_Input,405,500
+cladocora caespitosa_original5,Raw_Input,1021,1705
+cladopsammia gracilis_medium34,Raw_Input,375,500
+cladopsammia gracilis_original5,Raw_Input,1365,2048
+coeloseris mayeri_medium53,Raw_Input,333,500
+coeloseris mayeri_medium76,Raw_Input,500,495
+coeloseris mayeri_medium83,Raw_Input,375,500
+coeloseris mayeri_medium84,Raw_Input,344,500
+coeloseris mayeri_small3,Raw_Input,180,240
+corallium rubrum_medium3,Raw_Input,375,500
+corallium rubrum_medium31,Raw_Input,500,375
+corallium rubrum_medium93,Raw_Input,375,500
+coscinaraea monile_medium24,Raw_Input,375,500
+culicia tenella_medium26,Raw_Input,375,500
+culicia tenella_medium39,Raw_Input,333,500
+cycloseris mokai_medium16,Raw_Input,500,496
+cycloseris mokai_medium17,Raw_Input,381,500
+cycloseris vaughani_medium18,Raw_Input,300,500
+dendrogyra cylindrus_medium19,Raw_Input,500,375
+dendrogyra cylindrus_original5,Raw_Input,1536,2048
+dendrophyllia ramea_medium6,Raw_Input,375,500
+dendrophyllia ramea_medium9,Raw_Input,282,500
+dichocoenia stokesi_medium31,Raw_Input,333,500
+dichocoenia stokesi_medium37,Raw_Input,500,375
+dichocoenia stokesi_medium56,Raw_Input,375,500
+dichocoenia stokesi_medium65,Raw_Input,281,500
+dichocoenia stokesi_medium69,Raw_Input,375,500
+dichocoenia stokesii_medium44,Raw_Input,282,500
+dichocoenia stokesii_medium51,Raw_Input,375,500
+dichocoenia stokesii_medium64,Raw_Input,375,500
+diploastrea heliopora_medium9,Raw_Input,500,443
+dipsastraea favus_medium30,Raw_Input,333,500
+dipsastraea pallida_medium17,Raw_Input,375,500
+dipsastraea pallida_medium18,Raw_Input,375,500
+duncanopsammia peltata_medium14,Raw_Input,333,500
+duncanopsammia peltata_medium23,Raw_Input,333,500
+duncanopsammia peltata_medium27,Raw_Input,375,500
+duncanopsammia peltata_medium72,Raw_Input,500,375
+echinopora hirsutissima_medium45,Raw_Input,375,500
+echinopora hirsutissima_medium53,Raw_Input,375,500
+echinopora hirsutissima_medium56,Raw_Input,333,500
+echinopora hirsutissima_medium82,Raw_Input,375,500
+echinopora lamellosa_large8,Raw_Input,768,1024
+echinopora lamellosa_medium22,Raw_Input,333,500
+echinopora lamellosa_medium56,Raw_Input,375,500
+euphyllia cristata_medium92,Raw_Input,496,500
+euphyllia glabrescens_large,Raw_Input,504,698
+euphyllia glabrescens_medium52,Raw_Input,362,500
+euphyllia glabrescens_medium85,Raw_Input,375,500
+eusmilia fastigiata_medium63,Raw_Input,375,500
+eusmilia fastigiata_medium69,Raw_Input,500,497
+eusmilia fastigiata_original,Raw_Input,750,1000
+eusmilia fastigiata_original3,Raw_Input,1694,2048
+favia fragum_medium12,Raw_Input,375,500
+fungia fungites_large7,Raw_Input,768,1024
+gardineroseris planulata_medium28,Raw_Input,281,500
+goniastrea stelligera_medium49,Raw_Input,375,500
+goniastrea stelligera_medium50,Raw_Input,482,500
+heliopora coerulea_medium79,Raw_Input,375,500
+heliopora coerulea_medium80,Raw_Input,333,500
+heliopora coerulea_medium90,Raw_Input,282,500
+helioseris cucullata_medium34,Raw_Input,375,500
+helioseris cucullata_medium39,Raw_Input,281,500
+helioseris cucullata_medium49,Raw_Input,333,500
+helioseris cucullata_medium5,Raw_Input,500,500
+helioseris cucullata_medium69,Raw_Input,385,500
+helioseris cucullata_medium81,Raw_Input,375,500
+helioseris cucullata_original4,Raw_Input,750,1000
+herpolitha limax_medium37,Raw_Input,375,500
+herpolitha limax_medium47,Raw_Input,375,500
+herpolitha limax_medium8,Raw_Input,281,500
+hydnophora exesa_medium3,Raw_Input,400,500
+isophyllia rigida_medium37,Raw_Input,375,500
+isophyllia sinuosa_medium,Raw_Input,375,500
+isophyllia sinuosa_medium14,Raw_Input,375,500
+isopora palifera_medium38,Raw_Input,375,500
+isopora palifera_medium71,Raw_Input,375,500
+leptastrea purpurea_medium15,Raw_Input,375,500
+leptoria phrygia_medium18,Raw_Input,333,500
+leptoria phrygia_medium44,Raw_Input,375,500
+madracis auretenra_medium56,Raw_Input,375,500
+madracis auretenra_medium57,Raw_Input,281,500
+merulina scabricula_medium30,Raw_Input,430,500
+merulina scabricula_medium8,Raw_Input,375,500
+montastraea cavernosa_medium22,Raw_Input,500,375
+montastraea cavernosa_medium55,Raw_Input,500,333
+montastraea cavernosa_original.jpg3,Raw_Input,1536,2048
+montastraea cavernosa_original6,Raw_Input,1536,2048
+montipora capitata_large5,Raw_Input,497,1024
+orbicella annularis_medium165,Raw_Input,375,500
+orbicella annularis_medium22,Raw_Input,375,500
+orbicella annularis_medium37,Raw_Input,375,500
+orbicella annularis_medium73,Raw_Input,375,500
+oulophyllia crispa_large2,Raw_Input,683,1024
+pachyseris speciosa_medium54,Raw_Input,500,375
+pachyseris speciosa_medium72,Raw_Input,375,500
+pachyseris speciosa_medium73,Raw_Input,375,500
+paracyathus stearnsii_medium27,Raw_Input,333,500
+paracyathus stearnsii_medium54,Raw_Input,333,500
+paragoniastrea russelli_large2,Raw_Input,683,1024
+paragoniastrea russelli_medium11,Raw_Input,320,500
+paramontastraea peresi_medium77,Raw_Input,500,483
+pavona duerdeni_medium83,Raw_Input,375,500
+pavona maldivensis_medium17,Raw_Input,375,500
+pavona maldivensis_medium28,Raw_Input,400,500
+pavona venosa_medium13,Raw_Input,375,500
+platygyra daedalea_small2,Raw_Input,180,240
+plesiastrea versipora_original3,Raw_Input,2048,2048
+pocillopora damicornis_medium10,Raw_Input,334,500
+pocillopora damicornis_medium113,Raw_Input,333,500
+pocillopora damicornis_medium14,Raw_Input,375,500
+pocillopora damicornis_medium53,Raw_Input,375,500
+pocillopora verrucosa_medium34,Raw_Input,375,500
+pocillopora verrucosa_medium59,Raw_Input,386,500
+pocillopora verrucosa_medium62,Raw_Input,375,500
+pocillopora verrucosa_medium71,Raw_Input,375,500
+porites astreoides_medium7,Raw_Input,240,218
+porites compressa_medium34,Raw_Input,400,500
+porites compressa_medium54,Raw_Input,375,500
+porites cylindrica_medium4,Raw_Input,400,500
+porites cylindrica_medium58,Raw_Input,375,500
+porites lobata_medium55,Raw_Input,375,500
+porites lobata_medium62,Raw_Input,375,500
+pseudodiploria clivosa_medium32,Raw_Input,500,493
+pseudodiploria clivosa_medium94,Raw_Input,375,500
+sandalolitha robusta_medium43,Raw_Input,375,500
+sandalolitha robusta_medium46,Raw_Input,294,500
+scolymia cubensis_large,Raw_Input,889,1024
+seriatopora hystrix_medium51,Raw_Input,375,500
+sinularia brassica_medium41,Raw_Input,333,500
+sinularia brassica_original2,Raw_Input,1536,2048
+stephanocoenia intersepta_medium14,Raw_Input,375,500
+stephanocoenia intersepta_medium80,Raw_Input,375,500
+stylocoeniella armata_medium93,Raw_Input,375,500
+stylophora pistillata_medium3,Raw_Input,400,500
+stylophora pistillata_medium52,Raw_Input,375,500
+stylophora pistillata_medium66,Raw_Input,333,500
+stylophora pistillata_medium7,Raw_Input,500,334
+stylophora pistillata_original9,Raw_Input,1536,2048
+trachyphyllia geoffroyi_medium106,Raw_Input,375,500
+trachyphyllia geoffroyi_medium39,Raw_Input,333,500
+tubastraea micranthus_large4,Raw_Input,1024,890
+tubastraea micranthus_medium14,Raw_Input,500,375
+tubastraea micranthus_medium79,Raw_Input,375,500
+turbinaria reniformis_medium49,Raw_Input,375,500
+turbinaria reniformis_medium5,Raw_Input,375,500
+turbinaria reniformis_medium69,Raw_Input,375,500
+3d_l443_frame_1281_time_42.74,Retinex_w_o_post,1524,2704
+3d_l443_frame_1507_time_50.28,Retinex_w_o_post,1524,2704
+3d_l443_frame_1558_time_51.99,Retinex_w_o_post,1524,2704
+3d_l443_frame_1566_time_52.25,Retinex_w_o_post,1524,2704
+3d_l443_frame_1620_time_54.05,Retinex_w_o_post,1524,2704
+3d_l443_frame_1626_time_54.25,Retinex_w_o_post,1524,2704
+3d_l443_frame_1662_time_55.46,Retinex_w_o_post,1524,2704
+3d_l443_frame_1709_time_57.02,Retinex_w_o_post,1524,2704
+3d_l443_frame_1770_time_59.06,Retinex_w_o_post,1524,2704
+3d_l443_frame_1874_time_62.53,Retinex_w_o_post,1524,2704
+3d_l443_frame_1898_time_63.33,Retinex_w_o_post,1524,2704
+3d_l443_frame_1946_time_64.93,Retinex_w_o_post,1524,2704
+3d_l443_frame_1975_time_65.90,Retinex_w_o_post,1524,2704
+3d_l443_frame_2271_time_75.78,Retinex_w_o_post,1524,2704
+3d_l443_frame_2314_time_77.21,Retinex_w_o_post,1524,2704
+3d_l443_frame_2408_time_80.35,Retinex_w_o_post,1524,2704
+3d_l443_frame_2418_time_80.68,Retinex_w_o_post,1524,2704
+3d_l443_frame_2641_time_88.12,Retinex_w_o_post,1524,2704
+3d_l443_frame_3183_time_106.21,Retinex_w_o_post,1524,2704
+3d_l443_frame_3194_time_106.57,Retinex_w_o_post,1524,2704
+3d_l443_frame_3434_time_114.58,Retinex_w_o_post,1524,2704
+3d_l443_frame_3442_time_114.85,Retinex_w_o_post,1524,2704
+acanthastrea echinata_medium9,Retinex_w_o_post,407,500
+acropora abrotanoides_medium101,Retinex_w_o_post,374,500
+acropora abrotanoides_medium36,Retinex_w_o_post,375,500
+acropora abrotanoides_medium95,Retinex_w_o_post,375,500
+acropora cervicornis_medium12,Retinex_w_o_post,375,500
+acropora clathrata_medium42,Retinex_w_o_post,500,250
+acropora humilis_large2,Retinex_w_o_post,886,1024
+acropora humilis_medium13,Retinex_w_o_post,375,500
+acropora humilis_medium4,Retinex_w_o_post,333,500
+acropora humilis_medium54,Retinex_w_o_post,402,500
+acropora humilis_medium72,Retinex_w_o_post,438,500
+acropora hyacinthus_medium26,Retinex_w_o_post,368,500
+acropora hyacinthus_medium73,Retinex_w_o_post,375,500
+acropora hyacinthus_medium80,Retinex_w_o_post,375,500
+acropora hyacinthus_small8,Retinex_w_o_post,180,240
+acropora palmata_medium17,Retinex_w_o_post,375,500
+acropora palmata_medium30,Retinex_w_o_post,375,500
+acropora palmata_medium43,Retinex_w_o_post,375,500
+acropora palmata_medium65,Retinex_w_o_post,333,500
+acropora prolifera_medium30,Retinex_w_o_post,375,500
+agaricia fragilis_medium24,Retinex_w_o_post,375,500
+agaricia fragilis_original,Retinex_w_o_post,1365,2048
+astrea curta_medium43,Retinex_w_o_post,500,500
+balanophyllia elegans_medium30,Retinex_w_o_post,375,500
+balanophyllia elegans_medium45,Retinex_w_o_post,243,500
+bernardpora stutchburyi_medium47,Retinex_w_o_post,375,500
+blastomussa omanensis_medium21,Retinex_w_o_post,375,500
+carijoa riisei_medium69,Retinex_w_o_post,500,375
+carijoa riisei_medium77,Retinex_w_o_post,375,500
+cladocora caespitosa_20,Retinex_w_o_post,768,1024
+cladocora caespitosa_large4,Retinex_w_o_post,768,1024
+cladocora caespitosa_medium29,Retinex_w_o_post,405,500
+cladocora caespitosa_original5,Retinex_w_o_post,1021,1705
+cladopsammia gracilis_medium34,Retinex_w_o_post,375,500
+cladopsammia gracilis_original5,Retinex_w_o_post,1365,2048
+coeloseris mayeri_medium53,Retinex_w_o_post,333,500
+coeloseris mayeri_medium76,Retinex_w_o_post,500,495
+coeloseris mayeri_medium83,Retinex_w_o_post,375,500
+coeloseris mayeri_medium84,Retinex_w_o_post,344,500
+coeloseris mayeri_small3,Retinex_w_o_post,180,240
+corallium rubrum_medium3,Retinex_w_o_post,375,500
+corallium rubrum_medium31,Retinex_w_o_post,500,375
+corallium rubrum_medium93,Retinex_w_o_post,375,500
+coscinaraea monile_medium24,Retinex_w_o_post,375,500
+culicia tenella_medium26,Retinex_w_o_post,375,500
+culicia tenella_medium39,Retinex_w_o_post,333,500
+cycloseris mokai_medium16,Retinex_w_o_post,500,496
+cycloseris mokai_medium17,Retinex_w_o_post,381,500
+cycloseris vaughani_medium18,Retinex_w_o_post,300,500
+dendrogyra cylindrus_medium19,Retinex_w_o_post,500,375
+dendrogyra cylindrus_original5,Retinex_w_o_post,1536,2048
+dendrophyllia ramea_medium6,Retinex_w_o_post,375,500
+dendrophyllia ramea_medium9,Retinex_w_o_post,282,500
+dichocoenia stokesi_medium31,Retinex_w_o_post,333,500
+dichocoenia stokesi_medium37,Retinex_w_o_post,500,375
+dichocoenia stokesi_medium56,Retinex_w_o_post,375,500
+dichocoenia stokesi_medium65,Retinex_w_o_post,281,500
+dichocoenia stokesi_medium69,Retinex_w_o_post,375,500
+dichocoenia stokesii_medium44,Retinex_w_o_post,282,500
+dichocoenia stokesii_medium51,Retinex_w_o_post,375,500
+dichocoenia stokesii_medium64,Retinex_w_o_post,375,500
+diploastrea heliopora_medium9,Retinex_w_o_post,500,443
+dipsastraea favus_medium30,Retinex_w_o_post,333,500
+dipsastraea pallida_medium17,Retinex_w_o_post,375,500
+dipsastraea pallida_medium18,Retinex_w_o_post,375,500
+duncanopsammia peltata_medium14,Retinex_w_o_post,333,500
+duncanopsammia peltata_medium23,Retinex_w_o_post,333,500
+duncanopsammia peltata_medium27,Retinex_w_o_post,375,500
+duncanopsammia peltata_medium72,Retinex_w_o_post,500,375
+echinopora hirsutissima_medium45,Retinex_w_o_post,375,500
+echinopora hirsutissima_medium53,Retinex_w_o_post,375,500
+echinopora hirsutissima_medium56,Retinex_w_o_post,333,500
+echinopora hirsutissima_medium82,Retinex_w_o_post,375,500
+echinopora lamellosa_large8,Retinex_w_o_post,768,1024
+echinopora lamellosa_medium22,Retinex_w_o_post,333,500
+echinopora lamellosa_medium56,Retinex_w_o_post,375,500
+euphyllia cristata_medium92,Retinex_w_o_post,496,500
+euphyllia glabrescens_large,Retinex_w_o_post,504,698
+euphyllia glabrescens_medium52,Retinex_w_o_post,362,500
+euphyllia glabrescens_medium85,Retinex_w_o_post,375,500
+eusmilia fastigiata_medium63,Retinex_w_o_post,375,500
+eusmilia fastigiata_medium69,Retinex_w_o_post,500,497
+eusmilia fastigiata_original,Retinex_w_o_post,750,1000
+eusmilia fastigiata_original3,Retinex_w_o_post,1694,2048
+favia fragum_medium12,Retinex_w_o_post,375,500
+fungia fungites_large7,Retinex_w_o_post,768,1024
+gardineroseris planulata_medium28,Retinex_w_o_post,281,500
+goniastrea stelligera_medium49,Retinex_w_o_post,375,500
+goniastrea stelligera_medium50,Retinex_w_o_post,482,500
+heliopora coerulea_medium79,Retinex_w_o_post,375,500
+heliopora coerulea_medium80,Retinex_w_o_post,333,500
+heliopora coerulea_medium90,Retinex_w_o_post,282,500
+helioseris cucullata_medium34,Retinex_w_o_post,375,500
+helioseris cucullata_medium39,Retinex_w_o_post,281,500
+helioseris cucullata_medium49,Retinex_w_o_post,333,500
+helioseris cucullata_medium5,Retinex_w_o_post,500,500
+helioseris cucullata_medium69,Retinex_w_o_post,385,500
+helioseris cucullata_medium81,Retinex_w_o_post,375,500
+helioseris cucullata_original4,Retinex_w_o_post,750,1000
+herpolitha limax_medium37,Retinex_w_o_post,375,500
+herpolitha limax_medium47,Retinex_w_o_post,375,500
+herpolitha limax_medium8,Retinex_w_o_post,281,500
+hydnophora exesa_medium3,Retinex_w_o_post,400,500
+isophyllia rigida_medium37,Retinex_w_o_post,375,500
+isophyllia sinuosa_medium,Retinex_w_o_post,375,500
+isophyllia sinuosa_medium14,Retinex_w_o_post,375,500
+isopora palifera_medium38,Retinex_w_o_post,375,500
+isopora palifera_medium71,Retinex_w_o_post,375,500
+leptastrea purpurea_medium15,Retinex_w_o_post,375,500
+leptoria phrygia_medium18,Retinex_w_o_post,333,500
+leptoria phrygia_medium44,Retinex_w_o_post,375,500
+madracis auretenra_medium56,Retinex_w_o_post,375,500
+madracis auretenra_medium57,Retinex_w_o_post,281,500
+merulina scabricula_medium30,Retinex_w_o_post,430,500
+merulina scabricula_medium8,Retinex_w_o_post,375,500
+montastraea cavernosa_medium22,Retinex_w_o_post,500,375
+montastraea cavernosa_medium55,Retinex_w_o_post,500,333
+montastraea cavernosa_original.jpg3,Retinex_w_o_post,1536,2048
+montastraea cavernosa_original6,Retinex_w_o_post,1536,2048
+montipora capitata_large5,Retinex_w_o_post,497,1024
+orbicella annularis_medium165,Retinex_w_o_post,375,500
+orbicella annularis_medium22,Retinex_w_o_post,375,500
+orbicella annularis_medium37,Retinex_w_o_post,375,500
+orbicella annularis_medium73,Retinex_w_o_post,375,500
+oulophyllia crispa_large2,Retinex_w_o_post,683,1024
+pachyseris speciosa_medium54,Retinex_w_o_post,500,375
+pachyseris speciosa_medium72,Retinex_w_o_post,375,500
+pachyseris speciosa_medium73,Retinex_w_o_post,375,500
+paracyathus stearnsii_medium27,Retinex_w_o_post,333,500
+paracyathus stearnsii_medium54,Retinex_w_o_post,333,500
+paragoniastrea russelli_large2,Retinex_w_o_post,683,1024
+paragoniastrea russelli_medium11,Retinex_w_o_post,320,500
+paramontastraea peresi_medium77,Retinex_w_o_post,500,483
+pavona duerdeni_medium83,Retinex_w_o_post,375,500
+pavona maldivensis_medium17,Retinex_w_o_post,375,500
+pavona maldivensis_medium28,Retinex_w_o_post,400,500
+pavona venosa_medium13,Retinex_w_o_post,375,500
+platygyra daedalea_small2,Retinex_w_o_post,180,240
+plesiastrea versipora_original3,Retinex_w_o_post,2048,2048
+pocillopora damicornis_medium10,Retinex_w_o_post,334,500
+pocillopora damicornis_medium113,Retinex_w_o_post,333,500
+pocillopora damicornis_medium14,Retinex_w_o_post,375,500
+pocillopora damicornis_medium53,Retinex_w_o_post,375,500
+pocillopora verrucosa_medium34,Retinex_w_o_post,375,500
+pocillopora verrucosa_medium59,Retinex_w_o_post,386,500
+pocillopora verrucosa_medium62,Retinex_w_o_post,375,500
+pocillopora verrucosa_medium71,Retinex_w_o_post,375,500
+porites astreoides_medium7,Retinex_w_o_post,240,218
+porites compressa_medium34,Retinex_w_o_post,400,500
+porites compressa_medium54,Retinex_w_o_post,375,500
+porites cylindrica_medium4,Retinex_w_o_post,400,500
+porites cylindrica_medium58,Retinex_w_o_post,375,500
+porites lobata_medium55,Retinex_w_o_post,375,500
+porites lobata_medium62,Retinex_w_o_post,375,500
+pseudodiploria clivosa_medium32,Retinex_w_o_post,500,493
+pseudodiploria clivosa_medium94,Retinex_w_o_post,375,500
+sandalolitha robusta_medium43,Retinex_w_o_post,375,500
+sandalolitha robusta_medium46,Retinex_w_o_post,294,500
+scolymia cubensis_large,Retinex_w_o_post,889,1024
+seriatopora hystrix_medium51,Retinex_w_o_post,375,500
+sinularia brassica_medium41,Retinex_w_o_post,333,500
+sinularia brassica_original2,Retinex_w_o_post,1536,2048
+stephanocoenia intersepta_medium14,Retinex_w_o_post,375,500
+stephanocoenia intersepta_medium80,Retinex_w_o_post,375,500
+stylocoeniella armata_medium93,Retinex_w_o_post,375,500
+stylophora pistillata_medium3,Retinex_w_o_post,400,500
+stylophora pistillata_medium52,Retinex_w_o_post,375,500
+stylophora pistillata_medium66,Retinex_w_o_post,333,500
+stylophora pistillata_medium7,Retinex_w_o_post,500,334
+stylophora pistillata_original9,Retinex_w_o_post,1536,2048
+trachyphyllia geoffroyi_medium106,Retinex_w_o_post,375,500
+trachyphyllia geoffroyi_medium39,Retinex_w_o_post,333,500
+tubastraea micranthus_large4,Retinex_w_o_post,1024,890
+tubastraea micranthus_medium14,Retinex_w_o_post,500,375
+tubastraea micranthus_medium79,Retinex_w_o_post,375,500
+turbinaria reniformis_medium49,Retinex_w_o_post,375,500
+turbinaria reniformis_medium5,Retinex_w_o_post,375,500
+turbinaria reniformis_medium69,Retinex_w_o_post,375,500
+3d_l443_frame_1281_time_42.74,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_1507_time_50.28,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_1558_time_51.99,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_1566_time_52.25,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_1620_time_54.05,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_1626_time_54.25,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_1662_time_55.46,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_1709_time_57.02,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_1770_time_59.06,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_1874_time_62.53,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_1898_time_63.33,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_1946_time_64.93,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_1975_time_65.90,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_2271_time_75.78,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_2314_time_77.21,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_2408_time_80.35,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_2418_time_80.68,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_2641_time_88.12,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_3183_time_106.21,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_3194_time_106.57,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_3434_time_114.58,Retinex_+_LLaVA,1524,2704
+3d_l443_frame_3442_time_114.85,Retinex_+_LLaVA,1524,2704
+acanthastrea echinata_medium9,Retinex_+_LLaVA,407,500
+acropora abrotanoides_medium101,Retinex_+_LLaVA,374,500
+acropora abrotanoides_medium36,Retinex_+_LLaVA,375,500
+acropora abrotanoides_medium95,Retinex_+_LLaVA,375,500
+acropora cervicornis_medium12,Retinex_+_LLaVA,375,500
+acropora clathrata_medium42,Retinex_+_LLaVA,500,250
+acropora humilis_large2,Retinex_+_LLaVA,886,1024
+acropora humilis_medium13,Retinex_+_LLaVA,375,500
+acropora humilis_medium4,Retinex_+_LLaVA,333,500
+acropora humilis_medium54,Retinex_+_LLaVA,402,500
+acropora humilis_medium72,Retinex_+_LLaVA,438,500
+acropora hyacinthus_medium26,Retinex_+_LLaVA,368,500
+acropora hyacinthus_medium73,Retinex_+_LLaVA,375,500
+acropora hyacinthus_medium80,Retinex_+_LLaVA,375,500
+acropora hyacinthus_small8,Retinex_+_LLaVA,180,240
+acropora palmata_medium17,Retinex_+_LLaVA,375,500
+acropora palmata_medium30,Retinex_+_LLaVA,375,500
+acropora palmata_medium43,Retinex_+_LLaVA,375,500
+acropora palmata_medium65,Retinex_+_LLaVA,333,500
+acropora prolifera_medium30,Retinex_+_LLaVA,375,500
+agaricia fragilis_medium24,Retinex_+_LLaVA,375,500
+agaricia fragilis_original,Retinex_+_LLaVA,1365,2048
+astrea curta_medium43,Retinex_+_LLaVA,500,500
+balanophyllia elegans_medium30,Retinex_+_LLaVA,375,500
+balanophyllia elegans_medium45,Retinex_+_LLaVA,243,500
+bernardpora stutchburyi_medium47,Retinex_+_LLaVA,375,500
+blastomussa omanensis_medium21,Retinex_+_LLaVA,375,500
+carijoa riisei_medium69,Retinex_+_LLaVA,500,375
+carijoa riisei_medium77,Retinex_+_LLaVA,375,500
+cladocora caespitosa_20,Retinex_+_LLaVA,768,1024
+cladocora caespitosa_large4,Retinex_+_LLaVA,768,1024
+cladocora caespitosa_medium29,Retinex_+_LLaVA,405,500
+cladocora caespitosa_original5,Retinex_+_LLaVA,1021,1705
+cladopsammia gracilis_medium34,Retinex_+_LLaVA,375,500
+cladopsammia gracilis_original5,Retinex_+_LLaVA,1365,2048
+coeloseris mayeri_medium53,Retinex_+_LLaVA,333,500
+coeloseris mayeri_medium76,Retinex_+_LLaVA,500,495
+coeloseris mayeri_medium83,Retinex_+_LLaVA,375,500
+coeloseris mayeri_medium84,Retinex_+_LLaVA,344,500
+coeloseris mayeri_small3,Retinex_+_LLaVA,180,240
+corallium rubrum_medium3,Retinex_+_LLaVA,375,500
+corallium rubrum_medium31,Retinex_+_LLaVA,500,375
+corallium rubrum_medium93,Retinex_+_LLaVA,375,500
+coscinaraea monile_medium24,Retinex_+_LLaVA,375,500
+culicia tenella_medium26,Retinex_+_LLaVA,375,500
+culicia tenella_medium39,Retinex_+_LLaVA,333,500
+cycloseris mokai_medium16,Retinex_+_LLaVA,500,496
+cycloseris mokai_medium17,Retinex_+_LLaVA,381,500
+cycloseris vaughani_medium18,Retinex_+_LLaVA,300,500
+dendrogyra cylindrus_medium19,Retinex_+_LLaVA,500,375
+dendrogyra cylindrus_original5,Retinex_+_LLaVA,1536,2048
+dendrophyllia ramea_medium6,Retinex_+_LLaVA,375,500
+dendrophyllia ramea_medium9,Retinex_+_LLaVA,282,500
+dichocoenia stokesi_medium31,Retinex_+_LLaVA,333,500
+dichocoenia stokesi_medium37,Retinex_+_LLaVA,500,375
+dichocoenia stokesi_medium56,Retinex_+_LLaVA,375,500
+dichocoenia stokesi_medium65,Retinex_+_LLaVA,281,500
+dichocoenia stokesi_medium69,Retinex_+_LLaVA,375,500
+dichocoenia stokesii_medium44,Retinex_+_LLaVA,282,500
+dichocoenia stokesii_medium51,Retinex_+_LLaVA,375,500
+dichocoenia stokesii_medium64,Retinex_+_LLaVA,375,500
+diploastrea heliopora_medium9,Retinex_+_LLaVA,500,443
+dipsastraea favus_medium30,Retinex_+_LLaVA,333,500
+dipsastraea pallida_medium17,Retinex_+_LLaVA,375,500
+dipsastraea pallida_medium18,Retinex_+_LLaVA,375,500
+duncanopsammia peltata_medium14,Retinex_+_LLaVA,333,500
+duncanopsammia peltata_medium23,Retinex_+_LLaVA,333,500
+duncanopsammia peltata_medium27,Retinex_+_LLaVA,375,500
+duncanopsammia peltata_medium72,Retinex_+_LLaVA,500,375
+echinopora hirsutissima_medium45,Retinex_+_LLaVA,375,500
+echinopora hirsutissima_medium53,Retinex_+_LLaVA,375,500
+echinopora hirsutissima_medium56,Retinex_+_LLaVA,333,500
+echinopora hirsutissima_medium82,Retinex_+_LLaVA,375,500
+echinopora lamellosa_large8,Retinex_+_LLaVA,768,1024
+echinopora lamellosa_medium22,Retinex_+_LLaVA,333,500
+echinopora lamellosa_medium56,Retinex_+_LLaVA,375,500
+euphyllia cristata_medium92,Retinex_+_LLaVA,496,500
+euphyllia glabrescens_large,Retinex_+_LLaVA,504,698
+euphyllia glabrescens_medium52,Retinex_+_LLaVA,362,500
+euphyllia glabrescens_medium85,Retinex_+_LLaVA,375,500
+eusmilia fastigiata_medium63,Retinex_+_LLaVA,375,500
+eusmilia fastigiata_medium69,Retinex_+_LLaVA,500,497
+eusmilia fastigiata_original,Retinex_+_LLaVA,750,1000
+eusmilia fastigiata_original3,Retinex_+_LLaVA,1694,2048
+favia fragum_medium12,Retinex_+_LLaVA,375,500
+fungia fungites_large7,Retinex_+_LLaVA,768,1024
+gardineroseris planulata_medium28,Retinex_+_LLaVA,281,500
+goniastrea stelligera_medium49,Retinex_+_LLaVA,375,500
+goniastrea stelligera_medium50,Retinex_+_LLaVA,482,500
+heliopora coerulea_medium79,Retinex_+_LLaVA,375,500
+heliopora coerulea_medium80,Retinex_+_LLaVA,333,500
+heliopora coerulea_medium90,Retinex_+_LLaVA,282,500
+helioseris cucullata_medium34,Retinex_+_LLaVA,375,500
+helioseris cucullata_medium39,Retinex_+_LLaVA,281,500
+helioseris cucullata_medium49,Retinex_+_LLaVA,333,500
+helioseris cucullata_medium5,Retinex_+_LLaVA,500,500
+helioseris cucullata_medium69,Retinex_+_LLaVA,385,500
+helioseris cucullata_medium81,Retinex_+_LLaVA,375,500
+helioseris cucullata_original4,Retinex_+_LLaVA,750,1000
+herpolitha limax_medium37,Retinex_+_LLaVA,375,500
+herpolitha limax_medium47,Retinex_+_LLaVA,375,500
+herpolitha limax_medium8,Retinex_+_LLaVA,281,500
+hydnophora exesa_medium3,Retinex_+_LLaVA,400,500
+isophyllia rigida_medium37,Retinex_+_LLaVA,375,500
+isophyllia sinuosa_medium,Retinex_+_LLaVA,375,500
+isophyllia sinuosa_medium14,Retinex_+_LLaVA,375,500
+isopora palifera_medium38,Retinex_+_LLaVA,375,500
+isopora palifera_medium71,Retinex_+_LLaVA,375,500
+leptastrea purpurea_medium15,Retinex_+_LLaVA,375,500
+leptoria phrygia_medium18,Retinex_+_LLaVA,333,500
+leptoria phrygia_medium44,Retinex_+_LLaVA,375,500
+madracis auretenra_medium56,Retinex_+_LLaVA,375,500
+madracis auretenra_medium57,Retinex_+_LLaVA,281,500
+merulina scabricula_medium30,Retinex_+_LLaVA,430,500
+merulina scabricula_medium8,Retinex_+_LLaVA,375,500
+montastraea cavernosa_medium22,Retinex_+_LLaVA,500,375
+montastraea cavernosa_medium55,Retinex_+_LLaVA,500,333
+montastraea cavernosa_original.jpg3,Retinex_+_LLaVA,1536,2048
+montastraea cavernosa_original6,Retinex_+_LLaVA,1536,2048
+montipora capitata_large5,Retinex_+_LLaVA,497,1024
+orbicella annularis_medium165,Retinex_+_LLaVA,375,500
+orbicella annularis_medium22,Retinex_+_LLaVA,375,500
+orbicella annularis_medium37,Retinex_+_LLaVA,375,500
+orbicella annularis_medium73,Retinex_+_LLaVA,375,500
+oulophyllia crispa_large2,Retinex_+_LLaVA,683,1024
+pachyseris speciosa_medium54,Retinex_+_LLaVA,500,375
+pachyseris speciosa_medium72,Retinex_+_LLaVA,375,500
+pachyseris speciosa_medium73,Retinex_+_LLaVA,375,500
+paracyathus stearnsii_medium27,Retinex_+_LLaVA,333,500
+paracyathus stearnsii_medium54,Retinex_+_LLaVA,333,500
+paragoniastrea russelli_large2,Retinex_+_LLaVA,683,1024
+paragoniastrea russelli_medium11,Retinex_+_LLaVA,320,500
+paramontastraea peresi_medium77,Retinex_+_LLaVA,500,483
+pavona duerdeni_medium83,Retinex_+_LLaVA,375,500
+pavona maldivensis_medium17,Retinex_+_LLaVA,375,500
+pavona maldivensis_medium28,Retinex_+_LLaVA,400,500
+pavona venosa_medium13,Retinex_+_LLaVA,375,500
+platygyra daedalea_small2,Retinex_+_LLaVA,180,240
+plesiastrea versipora_original3,Retinex_+_LLaVA,2048,2048
+pocillopora damicornis_medium10,Retinex_+_LLaVA,334,500
+pocillopora damicornis_medium113,Retinex_+_LLaVA,333,500
+pocillopora damicornis_medium14,Retinex_+_LLaVA,375,500
+pocillopora damicornis_medium53,Retinex_+_LLaVA,375,500
+pocillopora verrucosa_medium34,Retinex_+_LLaVA,375,500
+pocillopora verrucosa_medium59,Retinex_+_LLaVA,386,500
+pocillopora verrucosa_medium62,Retinex_+_LLaVA,375,500
+pocillopora verrucosa_medium71,Retinex_+_LLaVA,375,500
+porites astreoides_medium7,Retinex_+_LLaVA,240,218
+porites compressa_medium34,Retinex_+_LLaVA,400,500
+porites compressa_medium54,Retinex_+_LLaVA,375,500
+porites cylindrica_medium4,Retinex_+_LLaVA,400,500
+porites cylindrica_medium58,Retinex_+_LLaVA,375,500
+porites lobata_medium55,Retinex_+_LLaVA,375,500
+porites lobata_medium62,Retinex_+_LLaVA,375,500
+pseudodiploria clivosa_medium32,Retinex_+_LLaVA,500,493
+pseudodiploria clivosa_medium94,Retinex_+_LLaVA,375,500
+sandalolitha robusta_medium43,Retinex_+_LLaVA,375,500
+sandalolitha robusta_medium46,Retinex_+_LLaVA,294,500
+scolymia cubensis_large,Retinex_+_LLaVA,889,1024
+seriatopora hystrix_medium51,Retinex_+_LLaVA,375,500
+sinularia brassica_medium41,Retinex_+_LLaVA,333,500
+sinularia brassica_original2,Retinex_+_LLaVA,1536,2048
+stephanocoenia intersepta_medium14,Retinex_+_LLaVA,375,500
+stephanocoenia intersepta_medium80,Retinex_+_LLaVA,375,500
+stylocoeniella armata_medium93,Retinex_+_LLaVA,375,500
+stylophora pistillata_medium3,Retinex_+_LLaVA,400,500
+stylophora pistillata_medium52,Retinex_+_LLaVA,375,500
+stylophora pistillata_medium66,Retinex_+_LLaVA,333,500
+stylophora pistillata_medium7,Retinex_+_LLaVA,500,334
+stylophora pistillata_original9,Retinex_+_LLaVA,1536,2048
+trachyphyllia geoffroyi_medium106,Retinex_+_LLaVA,375,500
+trachyphyllia geoffroyi_medium39,Retinex_+_LLaVA,333,500
+tubastraea micranthus_large4,Retinex_+_LLaVA,1024,890
+tubastraea micranthus_medium14,Retinex_+_LLaVA,500,375
+tubastraea micranthus_medium79,Retinex_+_LLaVA,375,500
+turbinaria reniformis_medium49,Retinex_+_LLaVA,375,500
+turbinaria reniformis_medium5,Retinex_+_LLaVA,375,500
+turbinaria reniformis_medium69,Retinex_+_LLaVA,375,500

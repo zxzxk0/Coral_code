@@ -1,0 +1,10 @@
+set,n_scenes,n_clusters,n_methods,n_enhanced,n_within_scene_pairs,n_scenes_kept
+SAUD dev,100,99.0,10.0,1000.0,4500.0,
+"UID2021 confirm (primary, overlap removed)",49,48.0,15.0,735.0,5145.0,
+UID2021 all (sensitivity),60,59.0,15.0,900.0,6300.0,
+UID2021 category B,10,,,,,10.0
+UID2021 category BG,10,,,,,9.0
+UID2021 category G,10,,,,,4.0
+UID2021 category H,10,,,,,7.0
+UID2021 category LL,10,,,,,10.0
+UID2021 category T,10,,,,,9.0
